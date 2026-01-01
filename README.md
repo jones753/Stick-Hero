@@ -27,7 +27,5 @@ flutter run   # choose your device/simulator
 - Built with Flutter stable; tested on emulator/simulator."
 
 ## License
-
-MIT License
-
-Copyright (c) 2026 Joona Kaikkonen
+Copyright © 2026 Joona Kaikkonen. All rights reserved.
+This code may not be copied, modified, or distributed without explicit permission.
