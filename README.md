@@ -2,7 +2,14 @@
 
 Endless runner Android game. The stick figure stays at a fixed location while the world scrolls past with obstacles on the way. Jump timing and slides are required to survive as speed ramps up.
 
-## Demo
+# Screenshots
+
+<p align="center">
+  <img src="assets\Screenshot_1767282640.png" width="300" alt="Gameplay">
+  <img src="assets\Screenshot_1767282698.png" width="300" alt="Game Over">
+</p>
+
+## GIF
 
 [![Gameplay Demo]([assets\stickhero.gif](https://github.com/jones753/Stick-Hero/blob/main/assets/stickhero.gif?raw=true))](https://raw.githubusercontent.com/jones753/Stick-Hero/refs/heads/main/assets/stickhero.gif)
 
