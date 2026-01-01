@@ -1,16 +1,33 @@
-# stick_hero
+# Stick Hero
 
-A new Flutter project.
+Endless runner Android game. The stick figure stays at a fixed location while the world scrolls past with obstacles on the way. Jump timing and slides are required to survive as speed ramps up.
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="screenshots/start_screen.png" width="300" alt="Start Screen">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Gameplay
+- Obstacles: rocks/spikes on ground, pits with bottom spikes, hovering boxes, and hanging bars you must slide under.
+- Speed increases over time; score increments per obstacle passed.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Controls
+- Hold to jump.
+- Swipe/drag down and hold: slide while on ground to get under low obstacles.
+- Release slide to stand; hitting any obstacle ends the run.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Build & Run
+```bash
+flutter pub get
+flutter run   # choose your device/simulator
+```
+
+## Notes
+- Built with Flutter stable; tested on emulator/simulator."
+
+## License
+
+MIT License
+
+Copyright (c) 2026 Joona Kaikkonen

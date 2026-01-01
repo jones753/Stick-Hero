@@ -1197,7 +1197,7 @@ class StartScreen extends StatelessWidget {
                   borderRadius: BorderRadius.circular(12),
                 ),
                 child: const Text(
-                  'Tap for a short hop, hold to charge a higher jump (capped at the roof).\nSwipe down and hold to slide under low boxes and hanging bars; release to stand.\nAvoid rocks, spikes, gaps, floating blocks, and hanging bars as the speed ramps up.\nPass obstacles to score.',
+                  'Avoid obstacles as the speed ramps up.\nHold to jump.\nSwipe down and hold to slide under obstacles; release to stand.\nPass obstacles to score.',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 16,
