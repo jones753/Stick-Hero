@@ -4,7 +4,7 @@ Endless runner Android game. The stick figure stays at a fixed location while th
 
 ## Demo
 
-<video src="videos/demo.webm" controls width="600"></video>
+![Gameplay Demo](assets\stickhero.gif)
 
 ## Gameplay
 - Obstacles: rocks/spikes on ground, pits with bottom spikes, hovering boxes, and hanging bars you must slide under.
