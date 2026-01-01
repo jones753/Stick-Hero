@@ -5,7 +5,7 @@ Endless runner Android game. The stick figure stays at a fixed location while th
 ## Demo
 
 <p align="center">
-  <img src="assets\stick_hero.gif" width="300" alt="Start Screen">
+  <img src="https://i.imgur.com/cbVTgKs.gif" width="300" alt="Gameplay Demo">
 </p>
 
 ## Gameplay
