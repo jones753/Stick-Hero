@@ -30,7 +30,3 @@ flutter run   # choose your device/simulator
 
 ## Notes
 - Built with Flutter stable; tested on emulator/simulator."
-
-## License
-Copyright © 2026 Joona Kaikkonen. All rights reserved.
-This code may not be copied, modified, or distributed without explicit permission.
